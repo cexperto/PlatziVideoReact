@@ -1,0 +1,18 @@
+instalar 
+npm init -y 
+instalar react
+npm init install --save react react-dom
+instalar babel
+npm install --save-dev @babel/core @babel/preset-env @babel/preset-react babel-loader
+
+instalar webpack
+npm install webpack webpack-cli html-webpack-plugin html-loader  --save-dev
+
+webpack sevidor de pruebas copn dependencia de desarrollo
+npm install webpack-dev-server --save-dev
+
+instalar sass con dependencia de desarrollo
+npm install --save-dev mini-css-extract-plugin css-loader node-sass sass-loader
+
+instalar Eslint para debugear
+npm install --save-dev eslint babel-eslint eslint-config-airbnb eslint-plugin-import eslint-plugin-react eslint-plugin-jsx-a11y
