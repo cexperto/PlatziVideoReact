@@ -12,11 +12,11 @@ webpack sevidor de pruebas copn dependencia de desarrollo
 npm install webpack-dev-server --save-dev
 
 instalar sass con dependencia de desarrollo
-<<<<<<< HEAD
 npm install --save-dev mini-css-extract-plugin css-loader node-sass sass-loader
 
 instalar Eslint para debugear
 npm install --save-dev eslint babel-eslint eslint-config-airbnb eslint-plugin-import eslint-plugin-react eslint-plugin-jsx-a11y
-=======
 npm install --save-dev mini-css-extract-plugin css-loader node-sass sass-loader
->>>>>>> search
+
+instalar webpack=>importar archivos multimedia
+npm install --save-dev file-loader
