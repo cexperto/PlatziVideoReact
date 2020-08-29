@@ -1,8 +1,11 @@
+@import "./Vars.scss";
+@import "./Media.scss";
+
 body {
-    margin: 0px;
-    font-family: 'Muli', sans-serif;
+    margin: 0;
+    font-family: $theme-font;
     //background: linear-gradient(#21c083, #ab8bff);
-    background-color: #8f57fd;
+    background-color: $main-color;
   }
   *{
     box-sizing: border-box;
