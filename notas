@@ -20,3 +20,6 @@ npm install --save-dev mini-css-extract-plugin css-loader node-sass sass-loader
 
 instalar webpack=>importar archivos multimedia
 npm install --save-dev file-loader
+
+instalar json server 
+sudo npm install json-server -g
